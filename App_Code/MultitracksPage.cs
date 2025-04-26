@@ -5,7 +5,7 @@ public class MultitracksPage : Page
 {
 	public MultitracksPage()
 	{
-		Load += MultitracksPage_Load;
+		Load += MultitracksPage
 	}
 
 	void MultitracksPage_Load(object sender, EventArgs e)
